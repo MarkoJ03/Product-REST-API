@@ -12,11 +12,13 @@ namespace BusinessLogicLayer.Service
 
         private readonly IProductRepository _productRepository;
         private readonly IUserProductRepository _userProductRepository;
+        private readonly IUserRepository _userRepository;
 
-        public ProductService(IProductRepository productRepository, IUserProductRepository userProductRepository)
+        public ProductService(IProductRepository productRepository, IUserProductRepository userProductRepository, IUserRepository userRepository)
         {
             _productRepository = productRepository;
             _userProductRepository = userProductRepository;
+            _userRepository = userRepository;
         }
 
         public async Task<IEnumerable<ProductDTO>> GetAllProducts()
@@ -69,5 +71,24 @@ namespace BusinessLogicLayer.Service
                 TotalAssignments = totalAssignments
             };
         }
+        public async Task<IEnumerable<PopularProductDTO>> GetMostPopularProducts(int topCount)
+        {
+            var popularProducts = await _userProductRepository.GetPopularProducts();
+            var topPopularProducts = popularProducts.Take(topCount);
+
+            var result = new List<PopularProductDTO>();
+            foreach (var product in topPopularProducts)
+            {
+                result.Add(new PopularProductDTO
+                {
+                    ProductId = product.ProductId,
+                    ProductName = product.ProductName,
+                    AssignmentsCount = product.AssignmentsCount
+                });
+            }
+
+            return result;
+        }
     }
 }
+

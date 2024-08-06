@@ -12,3 +12,4 @@ C:\Users\Marko\Desktop\Praksa TIAC 2024\Product REST API\DataAccessLayer\obj\Deb
 C:\Users\Marko\Desktop\Praksa TIAC 2024\Product REST API\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
 C:\Users\Marko\Desktop\Praksa TIAC 2024\Product REST API\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.genruntimeconfig.cache
 C:\Users\Marko\Desktop\Praksa TIAC 2024\Product REST API\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll
+C:\Users\Marko\Desktop\Praksa TIAC 2024\Product REST API\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.sourcelink.json

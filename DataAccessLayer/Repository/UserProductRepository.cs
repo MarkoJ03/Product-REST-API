@@ -43,5 +43,20 @@ namespace DataAccessLayer.Repository
         {
             return await _context.UserProducts.CountAsync();
         }
+
+        public async Task<IEnumerable<PopularProduct>> GetPopularProducts()
+        {
+            return await _context.UserProducts
+                .GroupBy(up => up.Product)
+                .Select(g => new PopularProduct
+                {
+                    ProductId = g.Key.Id,
+                    ProductName = g.Key.Name,
+                    AssignmentsCount = g.Count()
+                })
+                .Where(p => p.AssignmentsCount > 0)
+                .OrderByDescending(p => p.AssignmentsCount)
+                .ToListAsync();
+        }
     }
 }

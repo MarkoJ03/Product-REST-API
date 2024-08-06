@@ -19,13 +19,16 @@ namespace Product_REST_API.Controllers
         private readonly IUserProductService _userProductService;
         private readonly IHttpContextAccessor _httpContextAccessor;
         private readonly ILogger<ProductController> _logger;
+        private readonly IConfiguration _configuration;
 
-        public ProductController(IProductService productService, IUserProductService userProductService, IHttpContextAccessor httpContextAccessor, ILogger<ProductController> logger)
+
+        public ProductController(IProductService productService, IUserProductService userProductService, IHttpContextAccessor httpContextAccessor, ILogger<ProductController> logger, IConfiguration configuration)
         {
             _productService = productService;
             _userProductService = userProductService;
             _httpContextAccessor = httpContextAccessor;
             _logger = logger;
+            _configuration = configuration;
         }
 
         [HttpGet]
@@ -127,6 +130,22 @@ namespace Product_REST_API.Controllers
             {
                 var statistics = await _productService.GetProductStatistics();
                 return Ok(statistics);
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, new { message = ex.Message });
+            }
+        }
+
+        [HttpGet("popular")]
+        public async Task<ActionResult<IEnumerable<PopularProductDTO>>> GetMostPopularProducts([FromQuery] int? topCount)
+        {
+            try
+            {
+                int defaultTopCount = _configuration.GetValue<int>("DefaultTopPopularProducts", 10);
+                int count = topCount ?? defaultTopCount;
+                var popularProducts = await _productService.GetMostPopularProducts(count);
+                return Ok(popularProducts);
             }
             catch (Exception ex)
             {

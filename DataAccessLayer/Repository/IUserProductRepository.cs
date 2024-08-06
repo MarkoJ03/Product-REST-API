@@ -15,6 +15,8 @@ namespace DataAccessLayer.Repository
         Task<bool> IsProductOwner(int userId, int productId);
         Task<IEnumerable<Product>> GetUserProducts(int userId);
 
+        Task<IEnumerable<PopularProduct>> GetPopularProducts();
+
         Task<int> GetTotalAssignments();
     }
 }

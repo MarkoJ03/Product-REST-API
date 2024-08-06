@@ -14,6 +14,8 @@ namespace BusinessLogicLayer.Service
             Task DeleteProduct(int id);
 
             Task<ProductStatisticsDTO> GetProductStatistics();
+
+            Task<IEnumerable<PopularProductDTO>> GetMostPopularProducts(int topCount);
         }
 
     }

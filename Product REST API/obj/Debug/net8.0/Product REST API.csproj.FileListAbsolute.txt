@@ -172,3 +172,4 @@ C:\Users\Marko\Desktop\Praksa TIAC 2024\Product REST API\Product REST API\bin\De
 C:\Users\Marko\Desktop\Praksa TIAC 2024\Product REST API\Product REST API\bin\Debug\net8.0\DataAccessLayer.pdb
 C:\Users\Marko\Desktop\Praksa TIAC 2024\Product REST API\Product REST API\obj\Debug\net8.0\Product REST API.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Marko\Desktop\Praksa TIAC 2024\Product REST API\Product REST API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Marko\Desktop\Praksa TIAC 2024\Product REST API\Product REST API\obj\Debug\net8.0\Product REST API.sourcelink.json

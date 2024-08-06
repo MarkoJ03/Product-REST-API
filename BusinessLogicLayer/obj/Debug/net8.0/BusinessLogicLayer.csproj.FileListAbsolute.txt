@@ -13,3 +13,4 @@ C:\Users\Marko\Desktop\Praksa TIAC 2024\Product REST API\BusinessLogicLayer\obj\
 C:\Users\Marko\Desktop\Praksa TIAC 2024\Product REST API\BusinessLogicLayer\obj\Debug\net8.0\refint\BusinessLogicLayer.dll
 C:\Users\Marko\Desktop\Praksa TIAC 2024\Product REST API\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.pdb
 C:\Users\Marko\Desktop\Praksa TIAC 2024\Product REST API\BusinessLogicLayer\obj\Debug\net8.0\ref\BusinessLogicLayer.dll
+C:\Users\Marko\Desktop\Praksa TIAC 2024\Product REST API\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.sourcelink.json
