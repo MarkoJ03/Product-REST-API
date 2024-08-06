@@ -1,0 +1,14 @@
+C:\Users\Marko\Desktop\Praksa TIAC 2024\Product REST API\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marko\Desktop\Praksa TIAC 2024\Product REST API\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Marko\Desktop\Praksa TIAC 2024\Product REST API\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\Marko\Desktop\Praksa TIAC 2024\Product REST API\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Marko\Desktop\Praksa TIAC 2024\Product REST API\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Marko\Desktop\Praksa TIAC 2024\Product REST API\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+C:\Users\Marko\Desktop\Praksa TIAC 2024\Product REST API\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.runtimeconfig.json
+C:\Users\Marko\Desktop\Praksa TIAC 2024\Product REST API\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\Marko\Desktop\Praksa TIAC 2024\Product REST API\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\Marko\Desktop\Praksa TIAC 2024\Product REST API\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+C:\Users\Marko\Desktop\Praksa TIAC 2024\Product REST API\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+C:\Users\Marko\Desktop\Praksa TIAC 2024\Product REST API\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\Marko\Desktop\Praksa TIAC 2024\Product REST API\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\Marko\Desktop\Praksa TIAC 2024\Product REST API\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll
