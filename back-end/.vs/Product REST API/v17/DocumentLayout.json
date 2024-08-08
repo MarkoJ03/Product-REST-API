@@ -1,0 +1,377 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Marko\\Desktop\\Praksa TIAC 2024\\Product REST API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D07491-8D55-47F3-9953-4256CAB8A129}|Product REST API\\Product REST API.csproj|c:\\users\\marko\\desktop\\praksa tiac 2024\\product rest api\\product rest api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D07491-8D55-47F3-9953-4256CAB8A129}|Product REST API\\Product REST API.csproj|solutionrelative:product rest api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3048790-FC2C-4EF4-8C69-41F30F93F2CF}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\marko\\desktop\\praksa tiac 2024\\product rest api\\dataaccesslayer\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3048790-FC2C-4EF4-8C69-41F30F93F2CF}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6352FC25-7BF9-40F3-9E5E-B6C87EE1F596}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\marko\\desktop\\praksa tiac 2024\\product rest api\\businesslogiclayer\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6352FC25-7BF9-40F3-9E5E-B6C87EE1F596}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6352FC25-7BF9-40F3-9E5E-B6C87EE1F596}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\marko\\desktop\\praksa tiac 2024\\product rest api\\businesslogiclayer\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6352FC25-7BF9-40F3-9E5E-B6C87EE1F596}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6352FC25-7BF9-40F3-9E5E-B6C87EE1F596}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\marko\\desktop\\praksa tiac 2024\\product rest api\\businesslogiclayer\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6352FC25-7BF9-40F3-9E5E-B6C87EE1F596}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3048790-FC2C-4EF4-8C69-41F30F93F2CF}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\marko\\desktop\\praksa tiac 2024\\product rest api\\dataaccesslayer\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3048790-FC2C-4EF4-8C69-41F30F93F2CF}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3048790-FC2C-4EF4-8C69-41F30F93F2CF}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\marko\\desktop\\praksa tiac 2024\\product rest api\\dataaccesslayer\\repository\\iuserproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3048790-FC2C-4EF4-8C69-41F30F93F2CF}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repository\\iuserproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D07491-8D55-47F3-9953-4256CAB8A129}|Product REST API\\Product REST API.csproj|c:\\users\\marko\\desktop\\praksa tiac 2024\\product rest api\\product rest api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D07491-8D55-47F3-9953-4256CAB8A129}|Product REST API\\Product REST API.csproj|solutionrelative:product rest api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3048790-FC2C-4EF4-8C69-41F30F93F2CF}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\marko\\desktop\\praksa tiac 2024\\product rest api\\dataaccesslayer\\model\\popularproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3048790-FC2C-4EF4-8C69-41F30F93F2CF}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\model\\popularproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D07491-8D55-47F3-9953-4256CAB8A129}|Product REST API\\Product REST API.csproj|c:\\users\\marko\\desktop\\praksa tiac 2024\\product rest api\\product rest api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D07491-8D55-47F3-9953-4256CAB8A129}|Product REST API\\Product REST API.csproj|solutionrelative:product rest api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D07491-8D55-47F3-9953-4256CAB8A129}|Product REST API\\Product REST API.csproj|c:\\users\\marko\\desktop\\praksa tiac 2024\\product rest api\\product rest api\\product rest api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B3D07491-8D55-47F3-9953-4256CAB8A129}|Product REST API\\Product REST API.csproj|solutionrelative:product rest api\\product rest api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D07491-8D55-47F3-9953-4256CAB8A129}|Product REST API\\Product REST API.csproj|c:\\users\\marko\\desktop\\praksa tiac 2024\\product rest api\\product rest api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D07491-8D55-47F3-9953-4256CAB8A129}|Product REST API\\Product REST API.csproj|solutionrelative:product rest api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3048790-FC2C-4EF4-8C69-41F30F93F2CF}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\marko\\desktop\\praksa tiac 2024\\product rest api\\dataaccesslayer\\repository\\userproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3048790-FC2C-4EF4-8C69-41F30F93F2CF}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repository\\userproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6352FC25-7BF9-40F3-9E5E-B6C87EE1F596}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\marko\\desktop\\praksa tiac 2024\\product rest api\\businesslogiclayer\\dtos\\popularproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6352FC25-7BF9-40F3-9E5E-B6C87EE1F596}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\dtos\\popularproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D07491-8D55-47F3-9953-4256CAB8A129}|Product REST API\\Product REST API.csproj|c:\\users\\marko\\desktop\\praksa tiac 2024\\product rest api\\product rest api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B3D07491-8D55-47F3-9953-4256CAB8A129}|Product REST API\\Product REST API.csproj|solutionrelative:product rest api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3048790-FC2C-4EF4-8C69-41F30F93F2CF}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\marko\\desktop\\praksa tiac 2024\\product rest api\\dataaccesslayer\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3048790-FC2C-4EF4-8C69-41F30F93F2CF}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6352FC25-7BF9-40F3-9E5E-B6C87EE1F596}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\marko\\desktop\\praksa tiac 2024\\product rest api\\businesslogiclayer\\service\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6352FC25-7BF9-40F3-9E5E-B6C87EE1F596}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\service\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6352FC25-7BF9-40F3-9E5E-B6C87EE1F596}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\marko\\desktop\\praksa tiac 2024\\product rest api\\businesslogiclayer\\dtos\\productstatisticsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6352FC25-7BF9-40F3-9E5E-B6C87EE1F596}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\dtos\\productstatisticsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6352FC25-7BF9-40F3-9E5E-B6C87EE1F596}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\marko\\desktop\\praksa tiac 2024\\product rest api\\businesslogiclayer\\service\\tokenhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6352FC25-7BF9-40F3-9E5E-B6C87EE1F596}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\service\\tokenhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6352FC25-7BF9-40F3-9E5E-B6C87EE1F596}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\marko\\desktop\\praksa tiac 2024\\product rest api\\businesslogiclayer\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6352FC25-7BF9-40F3-9E5E-B6C87EE1F596}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D07491-8D55-47F3-9953-4256CAB8A129}|Product REST API\\Product REST API.csproj|c:\\users\\marko\\desktop\\praksa tiac 2024\\product rest api\\product rest api\\controllers\\userproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D07491-8D55-47F3-9953-4256CAB8A129}|Product REST API\\Product REST API.csproj|solutionrelative:product rest api\\controllers\\userproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Marko\\Desktop\\Praksa TIAC 2024\\Product REST API\\BusinessLogicLayer\\DTOs\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\DTOs\\ProductDTO.cs",
+              "ToolTip": "C:\\Users\\Marko\\Desktop\\Praksa TIAC 2024\\Product REST API\\BusinessLogicLayer\\DTOs\\ProductDTO.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\DTOs\\ProductDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T08:16:04.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PopularProduct.cs",
+              "DocumentMoniker": "C:\\Users\\Marko\\Desktop\\Praksa TIAC 2024\\Product REST API\\DataAccessLayer\\Model\\PopularProduct.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Model\\PopularProduct.cs",
+              "ToolTip": "C:\\Users\\Marko\\Desktop\\Praksa TIAC 2024\\Product REST API\\DataAccessLayer\\Model\\PopularProduct.cs",
+              "RelativeToolTip": "DataAccessLayer\\Model\\PopularProduct.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T08:01:44.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Marko\\Desktop\\Praksa TIAC 2024\\Product REST API\\BusinessLogicLayer\\Service\\ProductService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Service\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Marko\\Desktop\\Praksa TIAC 2024\\Product REST API\\BusinessLogicLayer\\Service\\ProductService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Service\\ProductService.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAYwF0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T09:32:50.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUserProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Marko\\Desktop\\Praksa TIAC 2024\\Product REST API\\DataAccessLayer\\Repository\\IUserProductRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repository\\IUserProductRepository.cs",
+              "ToolTip": "C:\\Users\\Marko\\Desktop\\Praksa TIAC 2024\\Product REST API\\DataAccessLayer\\Repository\\IUserProductRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repository\\IUserProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T09:37:47.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Marko\\Desktop\\Praksa TIAC 2024\\Product REST API\\DataAccessLayer\\Repository\\UserProductRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repository\\UserProductRepository.cs",
+              "ToolTip": "C:\\Users\\Marko\\Desktop\\Praksa TIAC 2024\\Product REST API\\DataAccessLayer\\Repository\\UserProductRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repository\\UserProductRepository.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAkwDsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T07:15:19.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Marko\\Desktop\\Praksa TIAC 2024\\Product REST API\\DataAccessLayer\\Model\\User.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\Marko\\Desktop\\Praksa TIAC 2024\\Product REST API\\DataAccessLayer\\Model\\User.cs",
+              "RelativeToolTip": "DataAccessLayer\\Model\\User.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBoAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T08:20:44.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Marko\\Desktop\\Praksa TIAC 2024\\Product REST API\\Product REST API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Product REST API\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Marko\\Desktop\\Praksa TIAC 2024\\Product REST API\\Product REST API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Product REST API\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T07:54:37.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Marko\\Desktop\\Praksa TIAC 2024\\Product REST API\\BusinessLogicLayer\\DTOs\\UserDTO.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\DTOs\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\Marko\\Desktop\\Praksa TIAC 2024\\Product REST API\\BusinessLogicLayer\\DTOs\\UserDTO.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\DTOs\\UserDTO.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwB0AAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T08:07:13.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Marko\\Desktop\\Praksa TIAC 2024\\Product REST API\\Product REST API\\Program.cs",
+              "RelativeDocumentMoniker": "Product REST API\\Program.cs",
+              "ToolTip": "C:\\Users\\Marko\\Desktop\\Praksa TIAC 2024\\Product REST API\\Product REST API\\Program.cs",
+              "RelativeToolTip": "Product REST API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAEBTwHcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T07:20:44.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Marko\\Desktop\\Praksa TIAC 2024\\Product REST API\\DataAccessLayer\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Model\\Product.cs",
+              "ToolTip": "C:\\Users\\Marko\\Desktop\\Praksa TIAC 2024\\Product REST API\\DataAccessLayer\\Model\\Product.cs",
+              "RelativeToolTip": "DataAccessLayer\\Model\\Product.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAkwAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T08:14:24.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Marko\\Desktop\\Praksa TIAC 2024\\Product REST API\\Product REST API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Product REST API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Marko\\Desktop\\Praksa TIAC 2024\\Product REST API\\Product REST API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Product REST API\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAmwCMAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T09:16:04.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Product REST API",
+              "DocumentMoniker": "C:\\Users\\Marko\\Desktop\\Praksa TIAC 2024\\Product REST API\\Product REST API\\Product REST API.csproj",
+              "RelativeDocumentMoniker": "Product REST API\\Product REST API.csproj",
+              "ToolTip": "C:\\Users\\Marko\\Desktop\\Praksa TIAC 2024\\Product REST API\\Product REST API\\Product REST API.csproj",
+              "RelativeToolTip": "Product REST API\\Product REST API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-08T07:27:05.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Marko\\Desktop\\Praksa TIAC 2024\\Product REST API\\Product REST API\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Product REST API\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Marko\\Desktop\\Praksa TIAC 2024\\Product REST API\\Product REST API\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Product REST API\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAkwB4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T10:31:10.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PopularProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Marko\\Desktop\\Praksa TIAC 2024\\Product REST API\\BusinessLogicLayer\\DTOs\\PopularProductDTO.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\DTOs\\PopularProductDTO.cs",
+              "ToolTip": "C:\\Users\\Marko\\Desktop\\Praksa TIAC 2024\\Product REST API\\BusinessLogicLayer\\DTOs\\PopularProductDTO.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\DTOs\\PopularProductDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T08:02:46.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Marko\\Desktop\\Praksa TIAC 2024\\Product REST API\\Product REST API\\appsettings.json",
+              "RelativeDocumentMoniker": "Product REST API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Marko\\Desktop\\Praksa TIAC 2024\\Product REST API\\Product REST API\\appsettings.json",
+              "RelativeToolTip": "Product REST API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-06T08:13:02.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Marko\\Desktop\\Praksa TIAC 2024\\Product REST API\\DataAccessLayer\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Marko\\Desktop\\Praksa TIAC 2024\\Product REST API\\DataAccessLayer\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "DataAccessLayer\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAADwvxYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T08:15:33.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Marko\\Desktop\\Praksa TIAC 2024\\Product REST API\\BusinessLogicLayer\\Service\\IProductService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Service\\IProductService.cs",
+              "ToolTip": "C:\\Users\\Marko\\Desktop\\Praksa TIAC 2024\\Product REST API\\BusinessLogicLayer\\Service\\IProductService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Service\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T09:32:42.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Marko\\Desktop\\Praksa TIAC 2024\\Product REST API\\BusinessLogicLayer\\Service\\UserService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Service\\UserService.cs",
+              "ToolTip": "C:\\Users\\Marko\\Desktop\\Praksa TIAC 2024\\Product REST API\\BusinessLogicLayer\\Service\\UserService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Service\\UserService.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T09:26:01.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductStatisticsDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Marko\\Desktop\\Praksa TIAC 2024\\Product REST API\\BusinessLogicLayer\\DTOs\\ProductStatisticsDTO.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\DTOs\\ProductStatisticsDTO.cs",
+              "ToolTip": "C:\\Users\\Marko\\Desktop\\Praksa TIAC 2024\\Product REST API\\BusinessLogicLayer\\DTOs\\ProductStatisticsDTO.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\DTOs\\ProductStatisticsDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T09:32:19.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TokenHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Marko\\Desktop\\Praksa TIAC 2024\\Product REST API\\BusinessLogicLayer\\Service\\TokenHelper.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Service\\TokenHelper.cs",
+              "ToolTip": "C:\\Users\\Marko\\Desktop\\Praksa TIAC 2024\\Product REST API\\BusinessLogicLayer\\Service\\TokenHelper.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Service\\TokenHelper.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T09:29:44.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Marko\\Desktop\\Praksa TIAC 2024\\Product REST API\\Product REST API\\Controllers\\UserProductController.cs",
+              "RelativeDocumentMoniker": "Product REST API\\Controllers\\UserProductController.cs",
+              "ToolTip": "C:\\Users\\Marko\\Desktop\\Praksa TIAC 2024\\Product REST API\\Product REST API\\Controllers\\UserProductController.cs",
+              "RelativeToolTip": "Product REST API\\Controllers\\UserProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T07:15:04.5Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

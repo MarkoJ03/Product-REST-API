@@ -1,0 +1,169 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;  
+    color: white; 
+}
+
+form{
+    background-color: #B73E3E;
+}
+.sve{
+    margin: 0% auto;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 420px;
+    background-color: #B73E3E;
+    color:white;
+    border-radius: 10px;
+    padding: 30px 40px;
+    
+}
+
+.sve h1{
+    text-align: center;
+}
+
+.sve .input{
+    position:relative;
+    width: 100%;
+    height: 50px;
+
+    margin: 30px 0;
+}
+
+.input input{
+    width: 100%;
+    height: 100%;
+    border: none;
+    outline: none;
+    border: 2px solid white;
+    border-radius: 40px;
+    background-color: #B73E3E;
+    font-size: 12px;
+    color: white;
+    padding: 20px 45px 20px 20px;
+    
+}
+
+
+
+
+.input input::placeholder{
+    color: white;
+}
+
+.input i{
+    position: absolute;
+    right: 20px;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.sve .dugme{
+    width: 100%;
+    height: 35px;
+    border: none;
+    outline: none;
+    border-radius: 40px;
+    cursor: pointer;
+    font-size: 16px;
+    background-color: rgba(219, 200, 172,1);
+    transition: all 0.3s ease 0s;
+}
+
+.sve .dugme:hover{
+    background-color: rgba(219, 200, 172,0.6);
+    transform: translateY(-5px);
+}
+
+.sve .registracija{
+    font-size: 14px;
+    text-align: center;
+    margin-top:20px;
+}
+
+ .registracija p a{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.registracija p a:hover{
+    text-decoration: underline;
+} 
+
+
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 10%;
+    background-color: #B73E3E;
+    
+}
+
+.naslov{
+    
+    cursor: pointer;
+    transition: all 0.3s ease  0s;
+
+}
+
+.naslov:hover{
+    transition: all 0.3s ease  0s;
+    transform: translateY(-3px);
+}
+
+.linkovi{
+    list-style: none;
+}
+
+.linkovi li{
+    display: inline-block;
+    padding: 0px 20px;
+    transition: all 0.3s ease 0s;
+}
+
+.linkovi li a{
+    transition: all 0.3s ease  0s;
+    
+}
+
+.linkovi li:hover{
+    color: #DBC8AC;
+    transform: translateY(-3px);
+
+}
+
+.dugmeprijava{
+    padding:  9px 25px;
+    background-color: rgba(219, 200, 172,1);
+    border: none;
+    border-radius: 50px;
+    cursor:pointer;
+    transition: all 0.3s ease 0s;
+}
+
+.dugmeprijava:hover{
+    background-color: rgba(219, 200, 172,0.6);
+    transform: translateY(-5px);
+}
+
+body{
+    background-color: #EDDBC0;
+}
+
+footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 10%;
+    background-color: #B73E3E;
+}
